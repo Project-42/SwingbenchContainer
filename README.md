@@ -196,6 +196,6 @@ Got New Row Counts. Completed in : 0:00:06.011
 +--------------+--------------------+---------------+---------------+----------+
 
 Completeted duplication for the order entry schema
-```
 [|=| raspi in ~ ]$
+```
 
